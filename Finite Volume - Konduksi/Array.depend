@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703444995 source:d:\belajar\c++\array\array\main.cpp
+	<iostream>
+	<iomanip>
+
+1701871350 source:d:\belajar\c++\array\array\main1.cpp
+	<iostream>
+
+1706885452 source:c:\users\gilang muhammad\documents\belajar\c++\finite volume - konduksi\finite volume - konduksi\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
